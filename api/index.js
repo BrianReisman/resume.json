@@ -1,5 +1,4 @@
-const resume = require('./resume.json');
-
 module.exports = (req, res) => {
-  res.status(200).json(resume)
+  const date = new Date().toString();
+  res.status(200).send(date)
 }
