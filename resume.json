@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Brian Reisman",
+    "label": "Web developer",
+    "picture": "",
+    "email": "brianreisman@protonmail.com",
+    "phone": "856.520.1120",
+    "website": "https://iwantedbrian.com",
+    "summary": "Full stack web developer with a background in theater and a love of learning, teamwork, and building",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cherry Hill",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "brian-reisman",
+        "url": "https://www.linkedin.com/in/brian-reisman/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Xenith",
+      "position": "Web developer",
+      "website": "https://www.xenith.com/",
+      "web property 2": "https://team.xenith.com/",
+      "startDate": "2021-06-04",
+      "endDate": "",
+      "summary": "Frontend web developer working Gatsby, headless Shopify CMS, Vue, and Cloudinary,",
+      "highlights": [
+        "Contributing to the Pancake design system and deploying the NPM package",
+        "Bring both digital properties into compliance with AA accessibility standards"
+      ]
+    },
+    {
+      "company": "Code Shock",
+      "position": "Frontend Developer",
+      "website": "",
+      "web property 2": "",
+      "startDate": "2021-02-04",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lambda School",
+      "area": "Web Development",
+      "studyType": "Full-time"
+    },
+    {
+      "institution": "The Studio / New York",
+      "area": "Acting",
+      "studyType": "Full-time"
+    },
+    {
+      "institution": "Marymount Manhattan College",
+      "area": "Theater",
+      "studyType": "Full-time"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": ["HTML", "CSS", "Javascript", "GatsbyJS", "Vue"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Node", "Express", "KnexJS", "SQL"]
+    },
+    {
+      "name": "Misc.",
+      "keywords": ["Figma", "Git", "GitHub"]
+    },
+    {
+      "name": "Sentient Human",
+      "keywords": ["Listening", "Considering", "Responding"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel",
+      "keywords": [
+        "Hiking",
+        "Fancy meals",
+        "Street food",
+        "Say yes",
+        "Adventure",
+        "People",
+        "Portgual ♥"
+      ]
+    },
+    {
+      "name": "Tech",
+      "keywords": ["Learning", "Building", "Teamwork", "Creative", "Fun"]
+    },
+    {
+      "name": "Tea",
+      "keywords": ["Toasted Rice", "Yogi Original (RIP 😢😭)", "Kombucha"]
+    },
+    {
+      "name": "Theater",
+      "keywords": ["Shakespeare", "Once", "Death of a Salesman"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jesse L.",
+      "reference": "contact information availible upon request"
+    },
+    {
+      "name": "Susan H.",
+      "reference": "contact information availible upon request"
+    },
+    {
+      "name": "Ryan M.",
+      "reference": "contact information availible upon request"
+    }
+  ]
+}
